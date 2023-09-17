@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">tgs</string>
+    <string name="nama">Nama</string>
+    <string name="nim">Nim</string>
+    <string name="kelas">Kelas</string>
+    <string name="prodi">Prodi</string>
+    <string name="riski_prasetya">Riski Prasetya</string>
+    <string name="_21_01_4645">21.01.4645</string>
+    <string name="praktikum_01">Praktikum 01</string>
+    <string name="d3_teknik_informatika">D3 Teknik Informatika</string>
+</resources>
